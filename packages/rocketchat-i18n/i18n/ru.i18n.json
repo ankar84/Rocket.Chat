@@ -9,6 +9,8 @@
   "2_Erros_Information_and_Debug": "2 - Ошибки, информация и отладка",
   "@username": "@логин",
   "@username_message": "@логин <message>",
+  "__count__empty_rooms_will_be_removed_automatically": "__count__ пустых чатов будет удалено автоматически.",
+  "__count__empty_rooms_will_be_removed_automatically__rooms__": "__count__ пустых чатов будет удалено автоматически:<br/> __rooms__.",
   "__username__is_no_longer__role__defined_by__user_by_": "__username__ больше не __role__ по решению __user_by__",
   "__username__was_set__role__by__user_by_": "__username__ был установлен __role__ по решению __user_by__",
   "%_of_conversations": "% разговоров",
